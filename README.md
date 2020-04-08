@@ -20,17 +20,17 @@ Dillinger uses a number of open source projects to work properly:
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
- ##### View Product List
- ![alt text](/Screen shot/1.jpg)
+ #### 1. View Product List
+ ![alt text](/Screenshot/1.jpg)
  
- ##### View Product Detail
- ![alt text](/Screen shot/2.jpg)
+ #### 2. View Product Detail
+ ![alt text](/Screenshot/2.jpg)
  
- ##### View Cart
- ![alt text](/Screen shot/3.jpg)
+ #### 3. View Cart
+ ![alt text](/Screenshot/3.jpg)
  
- ##### Login
- ![alt text](/Screen shot/4.jpg)
+ #### 4. Login
+ ![alt text](/Screenshot/4.jpg)
 
 
 
